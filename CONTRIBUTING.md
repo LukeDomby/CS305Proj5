@@ -1,0 +1,3 @@
+# CONTRIBUTING
+
+Asa Henry | Num0Programmer
